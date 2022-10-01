@@ -25,6 +25,8 @@ End the program
 
 ## PROGRAM:
 ```python
+#Developed by:sharangini TK
+#Register num: 22003363
 with open('shara.txt','r') as firstfile:
     with open('merge.txt','a') as secondfile:
         for line in firstfile:
