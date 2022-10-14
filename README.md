@@ -33,8 +33,10 @@ with open('shara.txt','r') as firstfile:
             secondfile.write(line)
 ```
 ### OUTPUT:
-![output](/ofile.png)
+file name: shara.txt
+![output](/ofile.png) 
 
+file name: merge.txt
 ![output](/copyfile.png)
 
 ## RESULT:
