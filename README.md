@@ -33,8 +33,9 @@ with open('shara.txt','r') as firstfile:
             secondfile.write(line)
 ```
 ### OUTPUT:
-![output](/copyfile.png)
 ![output](/ofile.png)
+
+![output](/copyfile.png)
 
 ## RESULT:
 Thus the program is written to copy the contents from one file to another file.
